@@ -1,0 +1,168 @@
+The basics of user experience
+
+The user experience is how a person, the user, feels about interacting with or experiencing a product.
+
+ 
+
+UX designers need to think about every person who uses the product. This might include people with disabilities, or people with very different life experiences from your own. For example, one user might find an app with a lot of text easy to use. On the other hand, a user with a visual impairment might want different features like sound.
+
+ 
+
+Jobs in the field of user experience
+
+UX designers tend to be curious about people and like thinking about how people's minds work. They also enjoy figuring out how people use products and how to make those products easier to use. UX designers are empathetic too. Empathy is the ability to understand someone else's feelings or thoughts in a situation, and it's a major part of UX.
+
+ 
+
+there are many different kinds of UX designers: interaction designers, visual designers, and motion designers.
+
+1️⃣ Interaction designers★ focus on designing the experience of a product and how it functions. They strive to understand the user flow, or the path, that a typical user takes to complete a task on an app, website, or other platform. At Google and many other companies, interaction designers are a specialized type of UX designer. 
+
+ 
+
+An interaction designer's work answers questions like: What should happen if a user taps on this button? How do we make this action easier for users to complete? And, how are the design elements within the website laid out? Interaction designers focus less on how the product looks and instead strive to make the product easy to navigate and simple for users to interact with.
+
+ 
+
+2️⃣ ​Visual designers focus on how a product or technology looks. They are often responsible for designing logos, illustrations, and icons, as well as deciding on font color, size, and placement. Visual designers focus on the layout of each page or screen and make all of the design elements fit together in a visually appealing way. At Google and many other companies, visual designers are a specialized type of UX designer. 
+
+ 
+
+The role of a visual designer is to answer questions like: What kind of visual style should icons have, in order to fit the product's branding? Or, which color and font should we use for this button? The goal of a visual designer is to delight users with designs that inspire, engage, and excite them.
+
+ 
+
+3️⃣ ​Motion designers think about what it feels like for a user to move through a product and how to create smooth transitions between pages on an app or website. They may also create animations or visual effects to bring their design ideas to life. At Google and many other companies, motion designers are a specialized type of UX designer. 
+
+ 
+
+A motion designer’s work answers questions like: How should an app transition between pages? How do we show the connection between these actions? And, what’s an engaging animation that will help tell our story? Motion designers focus on design elements that move, rather than traditional static designs.
+
+ 
+
+*Graphic designers usually work on the appearance of a physical product, like an invitation or a poster, while UX designers focus on how users interact with the product.
+
+ 
+
+​
+
+The product development life cycle
+
+The product development lifecycle is the process used to take a product from an idea to reality.
+
+
+​
+
+1️⃣ Brainstorm stage
+
+The first stage of the product development life cycle is the brainstorm stage, when the team starts thinking of an idea for a product. Your team might already know the user problem that you want to solve when you begin the product development life cycle. If not, coming up with a list of user problems is a great place to start.
+
+The brainstorm stage is also an ideal time to check out your product's competitors and identify if there are already similar products available in the market. You want your product to fill a gap in the market or solve a problem better than existing products. Completing research into both your competitors and your users helps determine what problems need to be addressed by the product’s design.
+
+One more thing to keep in mind: A UX designer at a large company might not be very involved in the brainstorm stage. But a UX designer at a startup or small business could have a big role to play! 
+
+ 
+
+2️⃣ Define stage
+
+The second stage of the product development life cycle brings together UX designers, UX researchers, program managers, and product leads to define the product. The goal is to figure out the specifications for the product by answering questions like: Who is the product for? What will the product do? And, what features need to be included for the product to be successful? 
+
+During the define stage, your team narrows the focus of your idea. One product can’t solve every user problem. Continuing with the example for an app to help working parents and guardians, your idea should focus on helping parents and guardians find reliable childcare or manage their schedules, not both. In this stage, a UX designer might help the team pin down the focus of the idea, but a product lead will probably be the one to define the scope of the project. 
+
+The research you completed in the brainstorm stage comes in handy now. Using what you've learned, you will pinpoint your potential users’ problems. Your team can’t assume they know what problems users are experiencing without asking the users directly. 
+
+​
+
+3️⃣ Design stage
+
+The third stage of the product development life cycle is design. This is when you, as a UX designer, really get to shine! At this stage, UX designers develop the ideas for the product. Generally, UX designers start by drawing wireframes, which are outlines or sketches of the product, then move on to creating prototypes, which are early models of a product that convey its functionality. 
+
+UX writers are also involved in the design stage and might do things like write button labels or other copy within the product's wireframes and prototypes.
+
+At this point in the life cycle, UX designers make sure to include all of the product specifications that were outlined in the define stage. You might also check to ensure that each part of the design fits together in an intuitive way. For example, UX designers might check that the screens of an app flow in a way that makes sense to the user. Or that each interaction, like tapping a button, has a correlating action, like an item getting added to a cart. On the other hand, with a physical product, UX designers might check that one piece of a physical object matches up to the connecting piece. Finally, UX designers also make sure that each task a user needs to complete is clear and easy to understand, like navigating from the homepage to the checkout confirmation page in an app.
+
+​
+
+4️⃣ Test stage
+
+Next, your designs move into the test stage. UX designers work with engineers to develop functional prototypes that match the original designs, including details and features that fit the company’s brand, like font and color choices. This also means writing the code and finalizing the overall structure of the product. 
+
+Or, if you want to test your designs earlier, another option is to test a functioning prototype of the product, using a design tool like Figma or Adobe XD. You'll learn how to create prototypes of your designs later in the certificate program.
+
+At this stage, the designs go through at least three phases of testing: internal tests within your company, reviews with stakeholders, and external tests with potential users. A stakeholder is a person you need to work with to complete the project or anyone who has some interest in the project, either within or outside of the company. 
+
+Running these tests is typically the responsibility of the UX researcher on your team, if you have one. 
+
+First, the team tests the product internally to look for technical glitches and usability problems. This is often referred to as alpha testing. 
+
+Then, the product undergoes a test with stakeholders to make sure the product is aligned with the company’s vision, meets legal guidelines for accessibility, and follows government regulations for privacy, for example. 
+
+Finally, there’s an external test with potential users. This is the time to figure out whether the product provides a good user experience, meaning it’s usable, equitable, enjoyable, and useful. This is often referred to as beta testing.
+
+Gathering and implementing feedback at this stage is absolutely critical. If users are frustrated or confused by your product, UX designers make adjustments or even create new versions of the design. Then, the designs are tested again, until there’s little or no friction between the product and the user.
+
+It’s important to call out that the product development life cycle isn’t a completely linear process. Your team might cycle between designing and testing a few times before you're ready to launch the product! 
+
+​
+
+5️⃣ Launch stage
+
+Finally, you’ve arrived at the fifth and final stage of the product development cycle: the launch stage, when the product is released into the world! This might involve listing an app in the Google Play Store or Apple’s App Store, making a website go live, or putting a physical product on store shelves. 
+
+The launch stage is a time to celebrate your work and start promoting the product. Marketing professionals on your team might post about the new product on social media or publish a press release. The customer support team might get ready to help new users learn how the product works. 
+
+Program managers also meet with the cross-functional team to reflect on the entire product development life cycle and ask questions like: What worked and what could be improved? Were goals achieved? Were timelines met? Making time for this reflection is super important, since it can help improve the process going forward. 
+
+For a physical product, the launch stage might be the end of the product development life cycle. But for a digital product, like an app or website, launching the product to a wider audience provides another opportunity to improve on the user experience. New users might find problems with the product’s functionality or features to improve that no one noticed before. So, after the launch stage, teams will often cycle back to the design and testing stages to start working on the next version of a digital product.
+
+​
+
+Characteristics of a good user experience
+
+These characteristics—usable, equitable, enjoyable, and useful—can help you evaluate a product’s design.
+
+​
+
+1. Usable
+
+If a product is usable, it means the design, structure, and purpose of the product is clear and easy to use. As you evaluate a product for usability, you can ask questions like: Is everything in the design easy to find? Is the design’s functionality easy to understand? Can users accomplish specific tasks within the design? As you evaluate, these questions can help you determine whether the design delivers a usable experience. 
+
+Imagine you are evaluating the usability of an airline app. Assuming the primary purpose of this app is to book a flight, the design should provide a clear and easy way to complete that task. For example, a section where you can easily enter travel and flight details on the homepage would be an example of good usability.
+
+​
+
+2. Equitable
+
+If a product is equitable, it means a design is helpful to people with diverse abilities and backgrounds. In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. Equity means providing people with the tools they need to accomplish their goals and support improved quality of life. Equity goes beyond the concept of equality, where everyone is given equal resources, because people often need different tools and support based on their needs. This is especially important to keep in mind for those in commonly disenfranchised groups. As you evaluate the equity of a product’s UX, you can ask questions like: Are the needs of a diverse group of users considered? Does the product’s design address the needs of traditionally underrepresented and excluded groups? These questions can help you determine whether the design delivers an equitable experience. 
+
+Imagine you are evaluating how equitable a social messaging app is. You might consider the design more equitable if the keyboard emoji list includes different skin tones and gender-neutral avatar options.
+
+​
+
+3. Enjoyable​
+
+If a product is enjoyable, it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them. A product’s design doesn’t have to be enjoyable for it to function properly. But, an enjoyable design adds to an already functional product and can enhance the user’s feelings about the experience. As you evaluate how enjoyable a product’s UX is, you can ask questions like: Are there aspects of the design that consider the user’s feelings?  Does the design inspire delight in the user? Does the design keep the user engaged throughout their experience? These questions can help you determine whether the design delivers an enjoyable experience. 
+
+Imagine you are evaluating how enjoyable a video streaming app is. Design aspects that might increase how much you enjoy the product include personalized recommendations based on previous watching habits, or the ability to customize the appearance of your account.
+
+​
+
+4. Useful​
+
+If a product is useful, that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. A product that is useful isn’t always usable. The same is true for the opposite. The distinction between the two is that usability refers to the product working well and being easy to use, while usefulness refers directly to the ability to solve user problems. As you evaluate how useful a product’s UX is, you can ask questions like: Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal? These questions can help you determine whether the design delivers a useful experience. 
+
+Imagine you’re evaluating how useful a banking app is. Users typically download these apps because they need a place to manage their money. With this in mind, aspects of the app that might be considered useful are features that can be used to transfer money between accounts and pay bills.
+
+​
+
+
+Google UX Design Certificate - Identify Good UX Design [Template]
+Directions: Using the four prompts below, identify how the FoodieLand app demonstrates good UX design. Prompt 1: Identify at least one aspect of the FoodieLand app that demonstrates usable design. Explain your reasoning in 1-2 sentences. Hint: Is the app’s design, structure, and purpos...
+
+docs.google.com
+
+Examine user experiences in your life
+
+A user experience you think is great is Naver because it is visually appealing and show the users notifications in chronological order.
+
+A user experience you think needs improvement is Amazon because while I tried to find my password, I needed to verify with my old phone number. Text verification was the only way to verify my identity, so I could not find my password. 
